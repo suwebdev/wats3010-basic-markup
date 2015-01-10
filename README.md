@@ -43,4 +43,7 @@ to complete the assignment:
    text, and headings are used properly to create a document hierarchy. All of
    this should be evident in the PDF. (Pro Tip: Use the "find" feature in your
    PDF viewer to find the names of court cases by looking for "v.".)
-4. Place both images as they show up in the PDF example. 
+4. Place both images as they show up in the PDF example.
+5. Once you've completed the mark up work, create a new branch called
+   ``gh-pages`` and push it up to Github. (Note the URL where this page shows
+   up.)
