@@ -13,13 +13,13 @@ the words as the structure.
 The goal of this assignment is to practice marking up documents. You will be
 expected to use a set of common tags:
 
-* document tags (html, head, body, meta, link, script)
-* headings (h1...h6)
-* paragraphs (p)
-* links (a)
-* lists (ul, li)
-* images (img)
-* text formatting (b, i, sup, sub)
+* document tags (`html`, `head`, `body`, `meta`, `link`)
+* headings (`h1`...`h6`)
+* paragraphs (`p`)
+* links (`a`)
+* lists (`ul`, `li`)
+* images (`img`)
+* text formatting (`b`, `i`, `sup`)
 
 Refer to the resources listed within the course pages to get more information
 about formatting HTML and using the tags listed above.
