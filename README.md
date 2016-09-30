@@ -13,7 +13,7 @@ the words as the structure.
 The goal of this assignment is to practice marking up documents. You will be
 expected to use a set of common tags:
 
-* document tags (`html`, `head`, `body`, `meta`, `link`)
+* document tags (`html`, `head`, `body`, `title`)
 * headings (`h1`...`h6`)
 * paragraphs (`p`)
 * links (`a`)
@@ -47,3 +47,11 @@ to complete the assignment:
 5. Once you've completed the mark up work, create a new branch called
    ``gh-pages`` and push it up to Github. (Note the URL where this page shows
    up.)
+
+Stretch Goals
+-------------
+You can go above and beyond by attempting some of these goals:
+
+* `meta` tags can be used to add information to your page. Explore those options.
+* Make your page look better when sharing on social media sites by adding Open Graph `meta` tags: [http://ogp.me/](http://ogp.me/)
+* Use the `link` tag to connect a stylesheet to add styles.
