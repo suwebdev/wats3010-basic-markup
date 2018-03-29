@@ -1,7 +1,7 @@
-wats1010-basic-markup
+WATS 3010: Basic Markup
 =====================
 
-Welcome to the Basic Markup assignment from WATS1010: Introduction to Web
+Welcome to the Basic Markup assignment from WATS 3010: Introduction to Web
 Development.
 
 In this assignment you will mark up a document based on the decision from
@@ -44,9 +44,7 @@ to complete the assignment:
    this should be evident in the PDF. (Pro Tip: Use the "find" feature in your
    PDF viewer to find the names of court cases by looking for "v.".)
 4. Place both images as they show up in the PDF example.
-5. Once you've completed the mark up work, create a new branch called
-   ``gh-pages`` and push it up to Github. (Note the URL where this page shows
-   up.)
+5. Once you've completed the mark up work, push your changes to Github and set the Github Pages Source to the `master` branch (on your repository's Settings page). (Note the URL where your website is deployed.)
 
 Stretch Goals
 -------------
