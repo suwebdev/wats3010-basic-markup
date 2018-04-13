@@ -44,12 +44,13 @@ to complete the assignment:
    this should be evident in the PDF. (Pro Tip: Use the "find" feature in your
    PDF viewer to find the names of court cases by looking for "v.".)
 4. Place both images as they show up in the PDF example.
+5. Add in a `<title>` tag to the head of your document and at least one `<meta>` tag (maybe "author" or "description").
 5. Once you've completed the mark up work, push your changes to Github and set the Github Pages Source to the `master` branch (on your repository's Settings page). (Note the URL where your website is deployed.)
 
 Stretch Goals
 -------------
 You can go above and beyond by attempting some of these goals:
 
-* `meta` tags can be used to add information to your page. Explore those options.
+* Explore the addition of other meta tags and what they would do for your project.
 * Make your page look better when sharing on social media sites by adding Open Graph `meta` tags: [http://ogp.me/](http://ogp.me/)
 * Use the `link` tag to connect a stylesheet to add styles.
