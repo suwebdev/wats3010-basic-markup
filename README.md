@@ -35,7 +35,7 @@ to complete the assignment:
    formatting as closely as possible.
 2. Open the ``index.html`` file and you will find that all of the text of the
    document is waiting for you there. You must add tags to create the structure
-   of an HTML5 document (using a proper HTML5 doctype declaration) and to
+   of an HTML5 document (including `html`, `head`, and `body` tags) and to
    create the layout as seen in the PDF.
 3. Be sure to keep an eye out for all the details in the document: Names of
    court cases are italicized. The asterisk on one line near the beginning
